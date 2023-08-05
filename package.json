@@ -1,0 +1,19 @@
+{
+  "name": "fileop",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "fsop": "./index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "yargs": "13.2"
+  }
+}
